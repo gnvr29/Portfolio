@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'YOUR_RENDER_BACKEND_URL/api/v1'
+  apiUrl: 'https://portfolio-el9i.onrender.com/api/v1'
 }; 
