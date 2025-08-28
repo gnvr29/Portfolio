@@ -30,7 +30,7 @@ export class Header {
     {
       "text": "Contato",
       "url": "/contact"
-    },
+    }/*,
     {
       "text": "Login",
       "url": "/login"
@@ -42,7 +42,7 @@ export class Header {
     {
       "text": "Logout",
       "url": "/logout"
-    }
+    }*/
   ];
 
   public authService : AuthService;
