@@ -17,15 +17,15 @@ export class Footer {
     },
     {
       "iconPath": "assets/icons/footer/linkedin.png",
-      "url": ""
+      "url": "https://www.linkedin.com/in/gabriel-nogueira-vieira-resende/"
     },
     {
       "iconPath": "assets/icons/footer/youtube.png",
-      "url": ""
+      "url": "https://www.youtube.com/@gnvr-zb7tw"
     },
     {
       "iconPath": "assets/icons/footer/instagram.png",
-      "url": ""
+      "url": "https://www.instagram.com/gabriel_nvresende/"
     }
   ];
 }

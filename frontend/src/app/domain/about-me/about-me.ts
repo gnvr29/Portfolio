@@ -19,18 +19,18 @@ export class AboutMe {
   texts = {
     pt: {
       title: 'Olá, eu sou',
-      name: 'Nome',
-      subtitle: 'Sou um desenvolvedor Front-end com 10 anos de experiência',
-      presentation: 'Olá! Sou um desenvolvedor full-stack apaixonado, com mais de 5 anos de experiência na criação de soluções digitais que geram impacto real. Atualmente estou no 4º período da faculdade de Engenharia de Software buscando sempre me desenvolver ainda mais.',
+      name: 'Gabriel',
+      subtitle: 'Sou um estudante de Engenharia de Software e estagiário na Hotmart!',
+      presentation: 'Olá! Sou um estudante de engenharia de software com 1 ano de experiência como QA e atualmente estagiário de engenharia de software na Hotmart, além de participar no projeto de extensão da WebTech na PUC Minas. Estudo bastante sobre Cybersegurança e DevOps, mas também tenho amplo conhecimento em desenvolvimento.',
       buttonWork: 'Conheça mais sobre meu trabalho',
       buttonCV: 'Baixar CV',
       sectionTitle: 'Sobre mim'
     },
     en: {
       title: 'Hi, I am',
-      name: 'Name',
-      subtitle: 'I am a Front-end developer with 10 years of experience',
-      presentation: 'Hi! I am a passionate full-stack developer with more than 5 years of experience creating digital solutions that make a real impact. I am currently in the 4th semester of Software Engineering, constantly striving to improve my skills.',
+      name: 'Gabriel',
+      subtitle: 'I am a Software Engineering student and an intern at Hotmart!',
+      presentation: 'Hello! I\'m a software engineering student with one year of experience as a QA and currently a software engineering intern at Hotmart, in addition to participating in the WebTech extension project at PUC Minas. I study cybersecurity and DevOps, but I also have extensive development knowledge.',
       buttonWork: 'Check out my work',
       buttonCV: 'Download CV',
       sectionTitle: 'About Me'
